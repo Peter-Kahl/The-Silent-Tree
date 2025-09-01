@@ -27,7 +27,7 @@ epistemic clientelism, epistemic trust, fiduciary authority, phenomenology of so
 ### Cite this work:
 
 ```
-Peter Kahl, The Carnival of the Invisible: When the Marginalised Take Centre Stage at Notting Hill (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Silent-Tree>
+Peter Kahl, The Silent Tree: Epistemic Clientelism and the Politics of Sound (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Silent-Tree>
 ```
 
 ### Publisher & Licence

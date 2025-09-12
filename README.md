@@ -6,6 +6,8 @@
 
 by Peter Kahl, 1 September 2025
 
+DOI: 10.13140/RG.2.2.31320.56321
+
 ![alt text](https://github.com/Peter-Kahl/The-Silent-Tree/blob/main/politics_of_sound.jpg?raw=true)
 
 ### Abstract
@@ -29,7 +31,7 @@ epistemic clientelism, epistemic trust, fiduciary authority, phenomenology of so
 ### Cite this work
 
 ```
-Kahl, P. (2025). The silent tree: Epistemic clientelism and the politics of sound. Lex et Ratio Ltd. https://github.com/Peter-Kahl/The-Silent-Tree
+Kahl, P. (2025). The silent tree: Epistemic clientelism and the politics of sound. Lex et Ratio Ltd. https://doi.org/10.13140/rg.2.2.31320.56321
 ```
 
 ### Publisher & Licence

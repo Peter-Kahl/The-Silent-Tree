@@ -4,8 +4,6 @@
 
 by Peter Kahl, 1 September 2025
 
-DOI: 10.13140/RG.2.2.31320.56321
-
 [![Generic badge](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.31320.56321-blue.svg)](https://doi.org/10.13140/RG.2.2.31320.56321)
 
 ![alt text](https://github.com/Peter-Kahl/The-Silent-Tree/blob/main/politics_of_sound.jpg?raw=true)

@@ -20,13 +20,13 @@ This paper forms part of a wider research programme on fiduciary-epistemic gover
 
 epistemic clientelism, epistemic trust, fiduciary authority, phenomenology of sound, conformity, authoritarianism, epistemic violence, epistemic agency, free-range knowledge, epistemocracy
 
-## Download Latest Edition
+## Download
 
 - [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Silent-Tree/master/Kahl_P_The_Silent_Tree_01-SEP-2025.pdf)
 
 ## Cite this work
 
-Kahl, P. (2025). The silent tree: Epistemic clientelism and the politics of sound. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Silent-Tree DOI: https://doi.org/10.13140/rg.2.2.31320.56321
+Kahl, P. (2025). _The silent tree: Epistemic clientelism and the politics of sound_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Silent-Tree DOI: https://doi.org/10.13140/rg.2.2.31320.56321
 
 ## Publisher & Licence
 
